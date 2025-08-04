@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    printf("Smit mandaliya\n");
+    printf("17\n");
+    printf("Tapi Diploma\n");
+
+    return 0;
+}
