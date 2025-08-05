@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    float p=50;
+    float r=30;
+    float n=20;
+    float i=p*r*n/100;;
+    
+     printf("The Simple Interest is:%f",i);
+    return 0;
+}

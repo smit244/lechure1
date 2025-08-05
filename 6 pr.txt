@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+    float l=10;
+    float o;
+    o=l*l;
+    printf("L*L is %f",o);
+
+    return 0;
+}
